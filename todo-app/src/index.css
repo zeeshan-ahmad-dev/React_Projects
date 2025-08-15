@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+    /* Light Theme */
+    --color-light: #F8FAFC;
+    --color-primary-light: #3B82F6;
+    --color-primary-light-hover: #2563EB;
+    --color-accent-light: #F59E0B;
+    --color-text-light: #1E293B;
+    --color-b-light: #CBD5E1;
+
+    /* Dark Theme */
+    --color-dark: #1E293B;
+    --color-primary-dark: #3B82F6;
+    --color-primary-dark-hover: #60A5FA;
+    --color-accent-dark: #FBBF24;
+    --color-text-dark: #F8FAFC;
+    --color-border-dark: #475569;
+}
